@@ -1,0 +1,5 @@
+The retrieved nearest neighbors consistently identify the sample as clinopyroxene and place it in alkali basalt, basalt, trachyandesite, and trachybasalt host-rock settings. are predominantly core and mostly primary. Tectonic-setting evidence is limited in the current retrieved neighborhood.
+
+Across the retrieved neighbors, the chemistry is characterized by SiO2 around 49.16 wt% (range 46.74–50.85 wt%), MgO around 13.26 wt% (range 11.21–14.57 wt%), CaO around 22.06 wt% (range 20.58–23.13 wt%), FeO around 8.47 wt% (range 5.47–10.81 wt%), Al2O3 around 4.67 wt% (range 2.80–6.46 wt%), TiO2 around 1.48 wt% (range 0.70–1.84 wt%).
+
+Retrieval confidence is supported by a top similarity score of 0.750 and an average top-k score of 0.745. The top retrieved samples show strong internal consistency: 5/5 top matches share the mineral label clinopyroxene; the host-rock context clusters around alkali basalt / basalt / trachyandesite; most matches correspond to core analyses; most matches are primary grains.

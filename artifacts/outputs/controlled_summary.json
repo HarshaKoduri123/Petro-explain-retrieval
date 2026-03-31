@@ -1,0 +1,80 @@
+{
+  "summary": "The retrieved nearest neighbors consistently identify the sample as clinopyroxene and place it in alkali basalt, basalt, trachyandesite, and trachybasalt host-rock settings. are predominantly core and mostly primary. Tectonic-setting evidence is limited in the current retrieved neighborhood.\n\nAcross the retrieved neighbors, the chemistry is characterized by SiO2 around 49.16 wt% (range 46.74–50.85 wt%), MgO around 13.26 wt% (range 11.21–14.57 wt%), CaO around 22.06 wt% (range 20.58–23.13 wt%), FeO around 8.47 wt% (range 5.47–10.81 wt%), Al2O3 around 4.67 wt% (range 2.80–6.46 wt%), TiO2 around 1.48 wt% (range 0.70–1.84 wt%).\n\nRetrieval confidence is supported by a top similarity score of 0.750 and an average top-k score of 0.745. The top retrieved samples show strong internal consistency: 5/5 top matches share the mineral label clinopyroxene; the host-rock context clusters around alkali basalt / basalt / trachyandesite; most matches correspond to core analyses; most matches are primary grains.",
+  "stats": {
+    "top_score": 0.7501134276390076,
+    "mean_score": 0.7452916622161865,
+    "n_results": 5,
+    "dominant_mineral": "CLINOPYROXENE",
+    "rock_counter": {
+      "TRACHYBASALT": 1,
+      "ALKALI BASALT": 2,
+      "TRACHYANDESITE": 1,
+      "BASALT": 1
+    },
+    "tectonic_counter": {
+      "unknown": 5
+    },
+    "oxide_stats": {
+      "SiO2": {
+        "mean": 49.155548095703125,
+        "min": 46.74186706542969,
+        "max": 50.85087203979492,
+        "std": 1.3783689737319946
+      },
+      "TiO2": {
+        "mean": 1.480711817741394,
+        "min": 0.7048635482788086,
+        "max": 1.8430858850479126,
+        "std": 0.4162232279777527
+      },
+      "Al2O3": {
+        "mean": 4.668497085571289,
+        "min": 2.7993152141571045,
+        "max": 6.455836296081543,
+        "std": 1.456028938293457
+      },
+      "Cr2O3": {
+        "mean": 0.0960436686873436,
+        "min": 0.0,
+        "max": 0.42995700240135193,
+        "std": 0.1680876463651657
+      },
+      "FeO": {
+        "mean": 8.46920394897461,
+        "min": 5.469452857971191,
+        "max": 10.814620971679688,
+        "std": 2.00179386138916
+      },
+      "MnO": {
+        "mean": 0.19904622435569763,
+        "min": 0.0,
+        "max": 0.47326552867889404,
+        "std": 0.17681296169757843
+      },
+      "MgO": {
+        "mean": 13.256179809570312,
+        "min": 11.209588050842285,
+        "max": 14.568543434143066,
+        "std": 1.3205112218856812
+      },
+      "CaO": {
+        "mean": 22.06402587890625,
+        "min": 20.580263137817383,
+        "max": 23.134252548217773,
+        "std": 0.8991336822509766
+      },
+      "Na2O": {
+        "mean": 0.6087377667427063,
+        "min": 0.5019576549530029,
+        "max": 0.7855775952339172,
+        "std": 0.12318256497383118
+      },
+      "K2O": {
+        "mean": 0.002007830422371626,
+        "min": 0.0,
+        "max": 0.010039152577519417,
+        "std": 0.004015660844743252
+      }
+    }
+  }
+}

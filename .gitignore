@@ -34,18 +34,14 @@ Thumbs.db
 *.log
 
 ########################################
-# Large Data Files (IMPORTANT)
+# Large Data Files 
 ########################################
 
 data/raw/
 data/interim/
 data/processed/
 
-########################################
-# Artifacts (generated outputs)
-########################################
 
-artifacts/
 
 ########################################
 # Model + Index Files

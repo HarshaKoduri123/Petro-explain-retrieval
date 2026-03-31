@@ -1,0 +1,21 @@
+{
+  "source_dataset": "query",
+  "tectonic_setting": "mid-ocean ridge",
+  "location": "unknown",
+  "rock_name": "basalt",
+  "rock_texture": "porphyritic",
+  "mineral": "CLINOPYROXENE",
+  "rim_core": "core",
+  "primary_secondary": "primary",
+  "SiO2": 51.2,
+  "TiO2": 0.4,
+  "Al2O3": 3.8,
+  "Cr2O3": 0.9,
+  "FeO": 5.7,
+  "MnO": 0.1,
+  "MgO": 15.4,
+  "CaO": 21.3,
+  "Na2O": 0.5,
+  "K2O": 0.01,
+  "text_context": "Petrography: mantle-derived clinopyroxene with preserved core chemistry | Note: high Mg and Ca with low alkalis"
+}

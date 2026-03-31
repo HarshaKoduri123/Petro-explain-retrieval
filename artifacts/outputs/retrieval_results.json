@@ -1,0 +1,137 @@
+[
+  {
+    "rank": 1,
+    "score": 0.7501134276390076,
+    "record_id": 52856,
+    "metadata": {
+      "mineral": "CLINOPYROXENE",
+      "rock_name": "TRACHYBASALT",
+      "tectonic_setting": "unknown",
+      "location": "unknown",
+      "rock_texture": "unknown",
+      "rim_core": "core",
+      "primary_secondary": "primary"
+    },
+    "chemistry": {
+      "SiO2": 48.99477282,
+      "TiO2": 1.809408926,
+      "Al2O3": 4.885404101,
+      "Cr2O3": 0.050261359,
+      "FeO": 6.805388018,
+      "MnO": 0.130679534,
+      "MgO": 14.04302372,
+      "CaO": 22.77844793,
+      "Na2O": 0.502613591,
+      "K2O": 0.0
+    },
+    "text_context": "Petrography:  | Note: "
+  },
+  {
+    "rank": 2,
+    "score": 0.7499778866767883,
+    "record_id": 59164,
+    "metadata": {
+      "mineral": "CLINOPYROXENE",
+      "rock_name": "ALKALI BASALT",
+      "tectonic_setting": "unknown",
+      "location": "unknown",
+      "rock_texture": "unknown",
+      "rim_core": "core",
+      "primary_secondary": "primary"
+    },
+    "chemistry": {
+      "SiO2": 49.15508449,
+      "TiO2": 1.419858014,
+      "Al2O3": 5.98940106,
+      "Cr2O3": 0.429957004,
+      "FeO": 5.469453055,
+      "MnO": 0.059994001,
+      "MgO": 14.56854315,
+      "CaO": 22.17778222,
+      "Na2O": 0.729927007,
+      "K2O": 0.0
+    },
+    "text_context": "Petrography:  | Note: "
+  },
+  {
+    "rank": 3,
+    "score": 0.7483052015304565,
+    "record_id": 87165,
+    "metadata": {
+      "mineral": "CLINOPYROXENE",
+      "rock_name": "TRACHYANDESITE",
+      "tectonic_setting": "unknown",
+      "location": "unknown",
+      "rock_texture": "unknown",
+      "rim_core": "core",
+      "primary_secondary": "primary"
+    },
+    "chemistry": {
+      "SiO2": 50.85087101,
+      "TiO2": 0.704863559,
+      "Al2O3": 2.799315275,
+      "Cr2O3": 0.0,
+      "FeO": 10.81462088,
+      "MnO": 0.473265532,
+      "MgO": 12.18407008,
+      "CaO": 21.64938073,
+      "Na2O": 0.523612929,
+      "K2O": 0.0
+    },
+    "text_context": "Petrography:  | Note: "
+  },
+  {
+    "rank": 4,
+    "score": 0.7410205006599426,
+    "record_id": 32678,
+    "metadata": {
+      "mineral": "CLINOPYROXENE",
+      "rock_name": "ALKALI BASALT",
+      "tectonic_setting": "unknown",
+      "location": "unknown",
+      "rock_texture": "unknown",
+      "rim_core": "core",
+      "primary_secondary": "primary"
+    },
+    "chemistry": {
+      "SiO2": 46.74186726,
+      "TiO2": 1.84308591,
+      "Al2O3": 6.455836439,
+      "Cr2O3": 0.0,
+      "FeO": 9.82979152,
+      "MnO": 0.0,
+      "MgO": 11.20958808,
+      "CaO": 23.1342532,
+      "Na2O": 0.785577601,
+      "K2O": 0.0
+    },
+    "text_context": "Petrography:  | Note: "
+  },
+  {
+    "rank": 5,
+    "score": 0.7370412945747375,
+    "record_id": 71575,
+    "metadata": {
+      "mineral": "CLINOPYROXENE",
+      "rock_name": "BASALT",
+      "tectonic_setting": "unknown",
+      "location": "unknown",
+      "rock_texture": "unknown",
+      "rim_core": "core",
+      "primary_secondary": "primary"
+    },
+    "chemistry": {
+      "SiO2": 50.03513703,
+      "TiO2": 1.626342737,
+      "Al2O3": 3.212528863,
+      "Cr2O3": 0.0,
+      "FeO": 9.426764381,
+      "MnO": 0.331292039,
+      "MgO": 14.27567513,
+      "CaO": 20.58026303,
+      "Na2O": 0.501957635,
+      "K2O": 0.010039153
+    },
+    "text_context": "Petrography:  | Note: "
+  }
+]
